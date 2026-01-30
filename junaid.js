@@ -18,3 +18,7 @@ d=a+b-c
 console.log(d);
 
 console.log("junaid")
+
+console.log("zain nasserr")
+console.log("junaid khan")
+console.log("abdullah saeed")
