@@ -14,7 +14,9 @@ console.log(junaid)
 a=455666
 b=66598585
 c=8999
-d=a+b-c
+e=868
+f=588688
+d=a+b-c+e+f
 console.log(d);
 
 console.log("junaid")
@@ -22,3 +24,5 @@ console.log("junaid")
 console.log("zain nasserr")
 console.log("junaid khan")
 console.log("abdullah saeed")
+
+
